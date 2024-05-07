@@ -88,8 +88,6 @@ CIRCUIT DIAGRAM
 
 
 
-[My image](username.github.com/repository/img/image.jpg)
-
 **SCHEMATIC VIEW:**
 
 ![image](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979934/71ce1b83-c2a9-4b0a-a4e7-c4bf37c9572a)
