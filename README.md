@@ -79,9 +79,11 @@ CIRCUIT DIAGRAM
 **STIMULATION OUTPUT**
 
 **LED OFF:**
+
 ![image](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979934/b869098c-8ec4-4d5b-8a02-e0d8763437cc)
 
 **LED ON:**
+
 ![image](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979934/d5bec9c6-78e8-4a61-9536-c5bec3fc0e1c)
 
 
@@ -89,6 +91,7 @@ CIRCUIT DIAGRAM
 [My image](username.github.com/repository/img/image.jpg)
 
 **SCHEMATIC VIEW:**
+
 ![image](https://github.com/Sharonsteffani2005/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/144979934/71ce1b83-c2a9-4b0a-a4e7-c4bf37c9572a)
 
 **RESULT:** Arduino uno analog input functioning is learned and interfaced with digital input switch .
